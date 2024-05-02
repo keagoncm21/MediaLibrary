@@ -1,0 +1,16 @@
+
+ERROR: M,Hidden Figures,9,Drama,126,2016,Jaraji P Henson,Octavia Spencer,Janelle Mon
+Previous record has an invalid stoi argument error
+
+
+ERROR: B,Fahrenheit 451,Ray Bradbury,Science Fiction,256,19
+Previous record has an invalid stoi argument error
+
+
+ERROR: M,So I Married an Axe Murderer,Thomas Schlamme  Comedy,93,1993,Mike Meyers,Nancy Trav
+Previous record has an invalid stoi argument error
+
+
+ERROR: S,"Thank u, next",Ariana Grande,8,Pop,207,201
+Previous record has an invalid stoi argument error
+
